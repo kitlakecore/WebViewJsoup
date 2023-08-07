@@ -86,7 +86,7 @@ dependencies {
 **Step 3:** Implement WebViewJsoup in your code
 
 ```java
-private void startScraping() {
+private void startScraping(WebView webView, String url) {
     WebViewJsoup webViewJsoup = new WebViewJsoup();
 
     webViewJsoup.runWebScraping(webView, url, new WebViewJsoup.WebScrapingCallback() {
