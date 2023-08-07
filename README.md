@@ -75,7 +75,7 @@ allprojects {
 
 ```gradle
 dependencies {
-    implementation 'com.github.kitlakecore:WebViewJsoup:VERSION'
+    implementation 'com.github.kitlakecore:WebViewJsoup:1.0.0'
     implementation 'org.jsoup:jsoup:1.14.3'
 }
 ```
