@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/kitlakecore/WebViewJsoup.svg)](https://jitpack.io/#kitlakecore/WebViewJsoup)
+
+
 # WebViewJsoup
 
 # WebViewJsoup: A Powerful Android Library for Web Scraping
